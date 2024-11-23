@@ -6,7 +6,7 @@ Atividade da disciplina de Engenharia de Software do curso Bacharelado em Sistem
 ## Objetivo
 
 O objetivo da atividade é aplicar o desenvolvimento de software utilizando a 
-abordagem CI (Continuos Integration) e o Desenvolvimento Orientado a Testes (TDD)
+abordagem CI (Continuous Integration) e o Desenvolvimento Orientado a Testes (TDD)
 
 ## Como executar
 
@@ -16,12 +16,15 @@ O código foi desenvolvido em TypeScript e, para os testes, utilizei o Jest.
 
 Para a execução do projeto, é necessário ter instalado:
 
-        [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) 
-        Extensão VS Code - [Jest Runner](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner) 
+- [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) 
+
+- Extensão VS Code - [Jest Runner](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner) 
 
 ### Instalar pacotes 
 
-O primeiro passo, após clonar o repositório, é instalar os pacotes executando `yarn`
+O primeiro passo, após clonar o repositório, é instalar os pacotes executando 
+
+        yarn
 
 ### Execução
 
